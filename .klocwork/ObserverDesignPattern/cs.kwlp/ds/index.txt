@@ -1,0 +1,6 @@
+C:\Learning\ObserverDesignPattern\ObserverDesignPattern\Program.cs;C:\Learning\ObserverDesignPattern\.klocwork\ObserverDesignPattern\cs.kwlp\ds\1\vxx51gap.a1g;1;0;False;4894E38A3250CF3897B61BC87FA1B3BFA6DA9B13;False
+C:\Learning\ObserverDesignPattern\ObserverDesignPattern\Properties\AssemblyInfo.cs;;2;0;False;B16F06E897D546EA56E45F222E08768D877E58DE;False
+C:\Learning\ObserverDesignPattern\ObserverDesignPattern\ISubject.cs;C:\Learning\ObserverDesignPattern\.klocwork\ObserverDesignPattern\cs.kwlp\ds\3\ucfth442.p5t;3;0;False;FAABE4F09D35A6284AC8F406A0174A71F57436C9;False
+C:\Learning\ObserverDesignPattern\ObserverDesignPattern\IObserver.cs;C:\Learning\ObserverDesignPattern\.klocwork\ObserverDesignPattern\cs.kwlp\ds\4\2kd3ijvv.yeg;4;0;False;D4673C086C2297EA6D82878055DD7066C0441379;False
+C:\Learning\ObserverDesignPattern\ObserverDesignPattern\Subject.cs;C:\Learning\ObserverDesignPattern\.klocwork\ObserverDesignPattern\cs.kwlp\ds\5\rp5gd0u1.b45;5;0;False;09B8FA09A699E8BA1B3844B6F4CF0B045E76DCAA;False
+C:\Learning\ObserverDesignPattern\ObserverDesignPattern\Observer.cs;C:\Learning\ObserverDesignPattern\.klocwork\ObserverDesignPattern\cs.kwlp\ds\6\2wya05dr.bep;6;0;False;8FEDC39FDEA32B28C16C5BEDEE1000E2A26CEEC6;False
